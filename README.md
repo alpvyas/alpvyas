@@ -6,7 +6,7 @@ I'm a software engineer with a background in physics and mathematics. I was firs
 
 - :file_folder:  I’m currently working on a fantasy baseball app called **Slash Line** that allows users to create fantasy teams and leagues using **real-time MLB game and player data**.
 - :baseball:  I’m currently learning how to handle and manipulate large amounts of raw data using **Python** and **Flask**.
--:bulb:  I’m looking to collaborate on any fun project where I can apply my existing knowledge and skills as well as develop and learn new ones!
+- :bulb:  I’m looking to collaborate on any fun project where I can apply my existing knowledge and skills as well as develop and learn new ones!
 - 💬  Ask me about **physics**! Or **baseball** :)
 - 😄  Pronouns: he/him/his
 - :heavy_exclamation_mark:  Fun fact: A player once pitched a no-hitter while high on LSD
