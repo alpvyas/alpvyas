@@ -8,6 +8,8 @@ I'm a software engineer with a background in physics and mathematics. I was firs
 - 🌱 I’m currently learning how to handle and manipulate large amounts of raw data using Pythong and Flask.
 - 👯 I’m looking to collaborate on any fun project where I can apply my existing knowledge and skills as well as develop and learn new ones!
 - 💬 Ask me about physics! Or baseball :)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: A player once pitched a no-hitter while high on LSD
 
 ## Langauges, Frameworks, Technologies
 
