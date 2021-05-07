@@ -4,12 +4,12 @@ I'm a software engineer with a background in physics and mathematics. I was firs
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alpeshvyas-627/) <img src="https://img.shields.io/badge/Gmail alpesh.vyas627@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> [<img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" />](https://www.alpeshvyas.com/)
 
-- :file_folder:&nbsp;I’m currently working on a fantasy baseball app called **Slash Line** that allows users to create fantasy teams and leagues using **real-time MLB game and player data**.
-- :baseball:&nbsp;I’m currently learning how to handle and manipulate large amounts of raw data using **Python** and **Flask**.
-- :bulb:&nbsp;I’m looking to collaborate on any fun project where I can apply my existing knowledge and skills as well as develop and learn new ones!
-- 💬&nbsp;Ask me about **physics**! Or **baseball** :)
-- 😄&nbsp;Pronouns: he/him/his
-- :heavy_exclamation_mark:&nbsp;Fun fact: A player once pitched a no-hitter while high on LSD
+- :file_folder:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently working on a fantasy baseball app called **Slash Line** that allows users to create fantasy teams and leagues using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**real-time MLB game and player data**.
+- :baseball:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning how to handle and manipulate large amounts of raw data using **Python** and **Flask**.
+- :bulb:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate on any fun project where I can apply my existing knowledge and skills as well as develop and learn new &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ones!
+- 💬&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask me about **physics**! Or **baseball** :)
+- 😄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pronouns: he/him/his
+- :heavy_exclamation_mark:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: A player once pitched a no-hitter while high on LSD
 
 ## Langauges, Frameworks, Technologies
 
