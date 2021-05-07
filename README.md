@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Alpesh!
+
+I'm a software engineer with a background in physics and mathematics. I was first introduced to coding in my undergraduate computational physics courses at SJSU and discovered a love for programming to build practical and useful solutions to problems.  I've delved into a diverse set of languages including Python, JavaScript, C++ and MATLAB. I studied physics and mathematics at SJSU and I studied computer science and software engineering principles at Los Angeles Valley College and App Academy. I'm always open to collaboration on innovative and challenging projects. Feel free to reach out and get in touch with me!
 
 <!--
 **alpvyas/alpvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
